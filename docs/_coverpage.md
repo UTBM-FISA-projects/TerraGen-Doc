@@ -1,4 +1,4 @@
-![logo](_media/TerraGen.svg)
+![logo](_media/TerraGen.svg)<sub>1.0</sub>
 
 > Terraform scripts website generator
 
